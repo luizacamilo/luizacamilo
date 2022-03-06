@@ -1,8 +1,8 @@
 ### Olá! Bem-vindo ao meu espaço.
 
 - 🎲 Atualmente busco oportunidades na área de dados
-- 🐍 Aprendendo python
-- 🦉 Conhecimentos em HTML, CSS, R,
+- 🐍 Aprendendo python e JS
+- 🦉 Conhecimentos em HTML, CSS, e R
 
 <div align="center">
   <a href="https://github.com/luizacamilo">
